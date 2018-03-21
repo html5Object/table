@@ -4,7 +4,7 @@
 
 ![](images.png)
 
-代码如下：fdfds
+代码如下：
 ```
 <!doctype html>
 <html lang="en">
