@@ -1,7 +1,7 @@
 # 表格table
 
 效果如下：
-fdfdsdf
+
 ![](images.png)
 
 代码如下：
